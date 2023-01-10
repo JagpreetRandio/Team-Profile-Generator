@@ -19,7 +19,7 @@ This project uses Node.Js to generate a team profile by using the command line. 
 
 ## Video
 
-https://github.com/JagpreetRandio/Team-Profile-Generator/blob/main/Assets/Team%20Profile%202023.mov
+[![Team Profile 2023]](https://www.youtube.com/watch?v=nD1ywlGF3lU "Team Profile 2023")
 
 ## Installation
 
