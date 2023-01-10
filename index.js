@@ -71,7 +71,7 @@ questions() {
             if (/^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()\.,;\s@\"]+\.{0,1})+([^<>()\.,;:\s@\"]{2,}|[\d\.]+))$/.test(emailInput)) {
                 return true;
             } else {
-                console.log(" Oops! Check again! Make sure you entered the correct email!");
+                console.log(" Oops! Check again! Please enter email in the example@email.com format!");
                 return false;
             }
         }
@@ -135,7 +135,7 @@ questions() {
                         if (/^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()\.,;\s@\"]+\.{0,1})+([^<>()\.,;:\s@\"]{2,}|[\d\.]+))$/.test(emailInput)) {
                             return true;
                         } else {
-                            console.log(" Oops! Check again! Make sure you entered the correct email!");
+                            console.log(" Oops! Check again! Please enter email in the example@email.com format!");
                             return false;
                         }
                     }
@@ -198,7 +198,7 @@ questions() {
                     if (/^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()\.,;\s@\"]+\.{0,1})+([^<>()\.,;:\s@\"]{2,}|[\d\.]+))$/.test(emailInput)) {
                         return true;
                     } else {
-                        console.log(" Oops! Check again! Make sure you entered the correct email!");
+                        console.log(" Oops! Check again! Please enter email in the example@email.com format!");
                         return false;
                     }
                 }
