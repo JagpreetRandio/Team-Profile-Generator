@@ -2,5 +2,23 @@
   "dependencies": {
     "inquirer": "^8.2.4",
     "jest": "^29.3.1"
-  }
+  },
+  "name": "team-profile-generator",
+  "description": "Team-Profile-Generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JagpreetRandio/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JagpreetRandio/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/JagpreetRandio/Team-Profile-Generator#readme"
 }
