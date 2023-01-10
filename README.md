@@ -2,7 +2,7 @@
 
 
 ## Table of contents
-* [Description](#description-of-the-project)
+* [Description](#description)
 * [Video](#video)
 * [Installation](#installation)
 * [Test](#test)
