@@ -10,7 +10,6 @@
 * [Screenshots](#screenshots)
 * [Credits](#credits)
 * [Contact Me](#contact-me)
-* [Link URL to GitHub Repository](#link-URL-to-GitHub-repository)
 * [License](#license)
 
 ## Description
