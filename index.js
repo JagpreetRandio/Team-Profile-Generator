@@ -239,7 +239,7 @@ questions() {
 }
 };
 
-// Activates prompts in CLI
+// Activates prompts in the command line 
 const prompt = new Prompt();
 prompt.questions();
 
