@@ -19,7 +19,7 @@ This project uses Node.Js to generate a team profile by using the command line. 
 
 ## Video
 
-[![Team Profile 2023](Assets/Team%20Profile%20.png)]](https://www.youtube.com/watch?v=nD1ywlGF3lU "Team Profile 2023")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nD1ywlGF3lU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Installation
 
