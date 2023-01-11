@@ -92,8 +92,8 @@ questions() {
     ])
 
     // All manager data will go into the array
-    .then( (templateData) => {
-        const newManager = new Manager(templateData.name, templateData.id, templateData.email, templateData.officeNumber)
+    .then( (template) => {
+        const newManager = new Manager(template.name, template.id, template.email, template.officeNumber)
         this.employeeArray.push(newManager);
         // Back to menu
         this.questions();
@@ -155,8 +155,8 @@ questions() {
                     }
 
                 // All engineer data will go into the array
-                ]).then( templateData => {
-                    const newEngineer = new Engineer(templateData.name, templateData.id, templateData.email, templateData.github);
+                ]).then( template => {
+                    const newEngineer = new Engineer(template.name, template.id, template.email, template.github);
                     this.employeeArray.push(newEngineer);
                     // Back to menu
                     this.questions();
@@ -218,8 +218,8 @@ questions() {
                 }
 
             // All intern data will go into the array
-            ]).then( templateData => {
-                const newIntern = new Intern(templateData.name, templateData.id, templateData.email, templateData.school);
+            ]).then( template => {
+                const newIntern = new Intern(template.name, template.id, template.email, template.school);
                 this.employeeArray.push(newIntern);
                 //Back to menu
                 this.questions();
