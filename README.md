@@ -19,7 +19,7 @@ This project uses Node.Js to generate a team profile by using the command line. 
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nD1ywlGF3lU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://user-images.githubusercontent.com/115323708/211688149-c4a188e1-a04c-4740-9c91-016d9c58909d.mp4
 
 ## Installation
 
